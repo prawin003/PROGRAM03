@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
 	int h,m,,hr1,min1;
 	printf("enter time");
@@ -10,4 +10,5 @@ void main()
 	h=hr-hr1;
 	m=min-min1;
 	printf("sub time%d\t%d",h,m);
+	return0;
 }
