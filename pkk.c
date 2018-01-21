@@ -2,7 +2,7 @@
 int main();
 {
 int array[100],minimum,size,c,location=1;
-printf("Enter the number of element in array \n");
+printf("Enter a number of element in array \n");
 scanf("%d",&size);
 printf("Enter %d integer \n",size);
 for(c=0;c<size;c++)
