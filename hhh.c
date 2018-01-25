@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-char x[30];
-char c;
+           char x[30];
+         char c;
 int i;
 clrscr();
 scanf("%s",x);
