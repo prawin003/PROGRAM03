@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(void) {
 	int n,min,max,i,a[50];
 	printf("enter the no");
